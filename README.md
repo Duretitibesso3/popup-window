@@ -13,7 +13,7 @@
 
 ## Getting Started
   - To get up started use the following steps!
-     
+     -Steps
     - Clone repository in your local machine git clone 
     - open index.html in your browser.
 
